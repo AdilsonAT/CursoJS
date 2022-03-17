@@ -1,0 +1,11 @@
+const alunos = ['A1', 'A2', 'A3'];
+alunos[alunos.length] = 'A4';
+alunos.push('A5');
+alunos.unshift('A6');
+console.log(alunos);
+let removido = alunos.pop();
+console.log(alunos);
+removido = alunos.shift();
+console.log(alunos);
+delete alunos[1];
+console.log(alunos);

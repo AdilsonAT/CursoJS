@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA;AACA;AACA;AACAA,OAAO,CAACC,GAAR,CAAY,YAAZ,E","sources":["webpack://aula115/./src/index.js"],"sourcesContent":["// 1\n// 2\n// 3\nconsole.log('Olá Mundo!');\n"],"names":["console","log"],"sourceRoot":""}
